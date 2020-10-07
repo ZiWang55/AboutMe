@@ -1,0 +1,13 @@
+.navbar-brand {
+    background-color: teal;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: dimgray;
+    border-top: 7px solid teal;
+}
