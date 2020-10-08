@@ -1,12 +1,16 @@
+
+/*background img*/
 body {
     background-image: url(Assets/Images/background.jpeg);
     background-attachment: fixed;
     background-size: cover;
 
 }
+.navbar-brand {
+    background-color: teal;
+}
 
-
-
+/*article container*/
 .container {
     background-color: beige;
     height: 450px;
@@ -17,7 +21,7 @@ body {
     
     border: 10px black;
 }
-
+/*profile picture*/
 .profilepic {
     height:200px;
     width: auto;
@@ -27,11 +31,10 @@ body {
 
 p {
 }
-.navbar-brand {
-    background-color: teal;
-}
 
 
+
+/*footer*/
 .footer {
     position: fixed;
     bottom: 0;
@@ -42,7 +45,7 @@ p {
     border-top: 7px solid teal;
     text-align: center;
 }
-
+/*responsive for xs*/
 @media (min-width: 576px) { 
 
 .container{
