@@ -22,6 +22,7 @@ Open with Code .
  ![contact](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-contact.png?raw=true)
  ![portfolio](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-portfolio.png?raw=true)
 
+### 
 
 ## License ##
 Copyright 2020 Univeristy of Minnesota Part-Time Full Stack Coding Boot Camp.
