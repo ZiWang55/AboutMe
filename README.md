@@ -17,7 +17,10 @@ Git Clone from https://github.com/ZiWang55/HW2-AboutMe.git
 Open with Code .
 
 ## Screenshots ##
-
+ ### 400PX screen shots ###
+ ![about me](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-aboutme.png)
+ ![contact](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-contact.png?raw=true)
+ ![portfolio](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-portfolio.png?raw=true)
 
 
 ## License ##
