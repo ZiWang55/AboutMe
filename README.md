@@ -20,7 +20,7 @@ Open with Code .
  ### 400PX screen shots ###
  ![about me](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-aboutme.png?raw=true)
  ![contact](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-contact.png?raw=true)
- ![portfolio](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-portfolio.png?raw=true)
+ ![portfolio](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400portfolio.png?raw=true)
 
  ### 768PX screen shots ###
  ![about me](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/768aboutme.png?raw=true)  
