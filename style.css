@@ -1,11 +1,12 @@
 
-/*background img*/
+/*background*/
 body {
     background-image: url(Assets/Images/background.jpeg);
     background-attachment: fixed;
     background-size: cover;
 
 }
+/* navbar title */
 .ziwang {
     background-color: teal;
 }
@@ -14,6 +15,7 @@ body {
 /* .container {
     background-color: lightgray;
 } */
+
 /*profile picture*/
 
 
@@ -27,8 +29,9 @@ body {
 h1 {
     color:teal;
 }
+/* 
 p {
-}
+} */
 
 
 
