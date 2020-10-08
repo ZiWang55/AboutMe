@@ -65,3 +65,8 @@ p {
 /* .form-group {
     width: 100%;
 } */
+
+.portfolio {
+    height: 350px;
+    width: 350px;
+}
