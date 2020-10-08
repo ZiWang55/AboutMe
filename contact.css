@@ -1,0 +1,27 @@
+
+/*background img*/
+body {
+    background-image: url(Assets/Images/background.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.navbar-brand {
+    background-color: teal;
+}
+
+.form-group {
+    margin: 10%;
+}
+
+/*footer*/
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: dimgray;
+    border-top: 7px solid teal;
+    text-align: center;
+}
