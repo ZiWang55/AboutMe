@@ -19,14 +19,15 @@ Open with Code .
 ## Screenshots ##
 
  ### 400PX screen shots ###
- ![about me](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-aboutme.png?raw=true)
- ![contact](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400-contact.png?raw=true)
+ ![about me](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400aboutme.png?raw=true)
+ ![contact](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400contact.png?raw=true)
  ![portfolio](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/400portfolio.png?raw=true)
 
  ### 768PX screen shots ###
  ![about me](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/768aboutme.png?raw=true)  
  ![contact](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/768contact.png?raw=true) 
  ![portfolio](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/768portfolio.png?raw=true) 
+ 
  ### 992PX screen shots ###
  ![about me](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/992aboutme.png?raw=true) 
  ![contact](https://github.com/ZiWang55/HW2-AboutMe/blob/main/Assets/Images/992contact.html.png?raw=true)
