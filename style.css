@@ -71,9 +71,9 @@ p {
     width: 100%;
 } */
 
+/* portfolio image*/
 .portfolio {
     margin: auto;
     margin-bottom: 30px;
-    display: block;
-      
+    display: block;  
 }
